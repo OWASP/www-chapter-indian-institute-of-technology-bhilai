@@ -2,17 +2,13 @@
 
 layout: col-sidebar
 title: OWASP Indian Institute of Technology Bhilai
-tags: example-tag
 region: Asia
 country: India
-meetup-group:
 
 ---
 
 <div style='color:red;'>
 <ul>
-<li>col-sidebar</li>
-
 <li>Owasp Indian Institute of Techonology BHilai</li>
 
 <li>Indian Institute of Technology Bhilai, Chattisgarh, Durg, Kuthela Bhata</li>

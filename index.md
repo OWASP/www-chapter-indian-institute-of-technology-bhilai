@@ -1,6 +1,6 @@
 ---
 
-Chapter: Student Chapter
+layout: col-sidebar
 title: OWASP Indian Institute of Technology Bhilai
 region: Asia
 country: India
